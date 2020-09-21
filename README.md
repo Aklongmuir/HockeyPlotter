@@ -1,7 +1,7 @@
 # HockeyPlotter
 [Shiny App for Plotting Shot Locations](https://aklongmuir.shinyapps.io/HockeyPlotter/)
 
-Short explanations found on Hockey-Graphs.com
+Short explanations found on [Hockey-Graphs.com](https://hockey-graphs.com/)
 
 Making a shot tracking application was on my agenda for this year and by mid July I had been mulling over (frustratingly attempting to teach myself) Javascript for months when I came across this tweet
 
